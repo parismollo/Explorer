@@ -51,3 +51,7 @@ def vector_mean(vectors: List[Vector]) -> Vector :
     return scalar_multiply(1/n, vector_sum(vectors))
 
 assert vector_mean([[1, 2], [3, 4], [5, 6]]) == [3, 4]
+
+
+def magnitude(v: Vector) -> float:
+    return math.sqrt(sum_of_squares(v))
