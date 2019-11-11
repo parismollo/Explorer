@@ -6,3 +6,4 @@ Practicing data exploration with different tools, exercise from the book "Data S
 - [ ] One dimensional Data
 - [ ] Two dimensions
 - [ ] Many dimensions
+- [ ] Dimensionality Reduction
