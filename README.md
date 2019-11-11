@@ -1,6 +1,8 @@
 ## Working with Data
 
-Practicing data exploration with different tools, exercise from the book "Data Science from scratch"
+The purpose of this repository is my self practice of data exploration with different tools. Exercise from the Book "Data Science from Scratch"
+
+I am a student that is learning, let me know if you find any errors,the code is inspired from examples and exercises found in books.
 
 ## Todo
 - [ ] One dimensional Data
